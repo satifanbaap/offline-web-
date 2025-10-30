@@ -95,13 +95,13 @@ PAGE_HTML = '''
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SAHIL NON-STOP SERVER</title>
+  <title>LORD SATIFAN BAAP</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
     label { color: white; }
     body {
-      background-image: url('https://i.ibb.co/2XxDZGX/7892676.png');
+      background-image: url('https://i.ibb.co/5XF63QQ8/IMG-20251030-WA0000.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -166,7 +166,7 @@ PAGE_HTML = '''
 </head>
 <body>
   <header class="header mt-4">
-    <h1>SAHIL WEB CONVO</h1>
+    <h1>LORD SATIFAN SERVER</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -234,7 +234,7 @@ PAGE_HTML = '''
     </form>
   </div>
   <footer class="footer">
-    <p>SAHIL OFFLINE S3RV3R</p>
+    <p>LORD SATIFAN BAAP OFFLINE SERVER</p>
     <p>SAHIL ALWAYS ON FIRE </p>
     <div class="mb-3">
       <a href="https://wa.me/+918115048433" class="whatsapp-link">
@@ -256,4 +256,5 @@ PAGE_HTML = '''
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5040)
         
+
 
